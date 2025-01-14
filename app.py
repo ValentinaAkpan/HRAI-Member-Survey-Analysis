@@ -6,7 +6,7 @@ import plotly.express as px
 st.title("HRAI Member Survey Analysis")
 
 # Define the path to the CSV file
-file_path = "HRAI Member Survey on Potential US Tariffs.CSV"
+file_path = "HRAI Member Survey on Potential US Tariffs.csv"
 
 try:
     # Load the dataset
